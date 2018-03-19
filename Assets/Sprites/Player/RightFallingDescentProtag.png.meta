@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: e5d3e5b645d3b904fab1b8217157ac2f
+timeCreated: 1481237741
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RightFallingDescentProtag_0
+    21300002: RightFallingDescentProtag_1
+    21300004: RightFallingDescentProtag_2
+    21300006: RightFallingDescentProtag_3
+    21300008: RightFallingDescentProtag_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RightFallingDescentProtag_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 72
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.7159243, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightFallingDescentProtag_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 71
+        width: 10
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6187584, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightFallingDescentProtag_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 38
+        width: 9
+        height: 22
+      alignment: 9
+      pivot: {x: 0.58396995, y: 0.50490725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightFallingDescentProtag_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 38
+        width: 10
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6187584, y: 0.49999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightFallingDescentProtag_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.7076194, y: 0.49460202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

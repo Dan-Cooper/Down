@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: fbd333477db2fbc4ca6d6a92f520b914
+timeCreated: 1481681853
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BloodyFloatBlockDescent_0
+    21300002: BloodyFloatBlockDescent_1
+    21300004: BloodyFloatBlockDescent_2
+    21300006: BloodyFloatBlockDescent_3
+    21300008: BloodyFloatBlockDescent_4
+    21300010: BloodyFloatBlockDescent_5
+    21300012: BloodyFloatBlockDescent_6
+    21300014: BloodyFloatBlockDescent_7
+    21300016: BloodyFloatBlockDescent_8
+    21300018: BloodyFloatBlockDescent_9
+    21300020: BloodyFloatBlockDescent_10
+    21300022: BloodyFloatBlockDescent_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 72
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.42802492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 636
+        width: 72
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4190286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 456
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4910028, y: 0.41003132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 468
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.3740441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 468
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50899696, y: 0.39203772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 264
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.23009427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 264
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5089963, y: 0.23909123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 276
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50899696, y: 0.35605016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 84
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.3830409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 72
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4910027, y: 0.44601893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BloodyFloatBlockDescent_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 72
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5179936, y: 0.4550158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

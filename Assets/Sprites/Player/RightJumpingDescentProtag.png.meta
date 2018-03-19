@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 94fb10a48226a5a47bbec5a861a33298
+timeCreated: 1481432776
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RightJumpingDescentProtag_0
+    21300002: RightJumpingDescentProtag_1
+    21300004: RightJumpingDescentProtag_2
+    21300006: RightJumpingDescentProtag_3
+    21300008: RightJumpingDescentProtag_4
+    21300010: RightJumpingDescentProtag_5
+    21300012: RightJumpingDescentProtag_6
+    21300014: RightJumpingDescentProtag_7
+    21300016: RightJumpingDescentProtag_8
+    21300018: RightJumpingDescentProtag_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RightJumpingDescentProtag_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 104
+        width: 17
+        height: 20
+      alignment: 9
+      pivot: {x: 0.69425726, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightJumpingDescentProtag_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 104
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.7348353, y: 0.51158744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightJumpingDescentProtag_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 104
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.75160927, y: 0.53669316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightJumpingDescentProtag_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 73
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.7370934, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightJumpingDescentProtag_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 74
+        width: 11
+        height: 20
+      alignment: 9
+      pivot: {x: 0.700144, y: 0.5110081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightJumpingDescentProtag_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 75
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.7370934, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightJumpingDescentProtag_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 12
+        height: 20
+      alignment: 9
+      pivot: {x: 0.7201583, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightJumpingDescentProtag_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.735884, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightJumpingDescentProtag_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 43
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.735884, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightJumpingDescentProtag_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6693526, y: 0.5110081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

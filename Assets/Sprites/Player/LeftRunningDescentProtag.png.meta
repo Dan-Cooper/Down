@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 8e23bf2704cbecf46911b8a56dbaf8b2
+timeCreated: 1481237185
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LeftRunningDescentProtag_0
+    21300002: LeftRunningDescentProtag_1
+    21300004: LeftRunningDescentProtag_2
+    21300006: LeftRunningDescentProtag_3
+    21300008: LeftRunningDescentProtag_4
+    21300010: LeftRunningDescentProtag_5
+    21300012: LeftRunningDescentProtag_6
+    21300014: LeftRunningDescentProtag_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LeftRunningDescentProtag_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 17
+        height: 20
+      alignment: 9
+      pivot: {x: 0.28407535, y: 0.49460182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftRunningDescentProtag_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 72
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.27687785, y: 0.4943177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftRunningDescentProtag_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 72
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.27687785, y: 0.49460182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftRunningDescentProtag_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 40
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.30431843, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftRunningDescentProtag_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 40
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.26383233, y: 0.49460202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftRunningDescentProtag_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 40
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.2624832, y: 0.49460202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftRunningDescentProtag_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.24808794, y: 0.4943178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LeftRunningDescentProtag_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 8
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.26248297, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 14d9c0a942249814dac64a8933f76d51
+timeCreated: 1481072152
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RightStopShortDescentProtag_0
+    21300002: RightStopShortDescentProtag_1
+    21300004: RightStopShortDescentProtag_2
+    21300006: RightStopShortDescentProtag_3
+    21300008: RightStopShortDescentProtag_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RightStopShortDescentProtag_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 648
+        width: 153
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightStopShortDescentProtag_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 648
+        width: 126
+        height: 171
+      alignment: 9
+      pivot: {x: 0.2917873, y: 0.5340933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightStopShortDescentProtag_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 360
+        width: 144
+        height: 171
+      alignment: 9
+      pivot: {x: 0.33805662, y: 0.5454576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightStopShortDescentProtag_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 360
+        width: 81
+        height: 162
+      alignment: 9
+      pivot: {x: 0.10413841, y: 0.5539805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RightStopShortDescentProtag_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 71
+        width: 72
+        height: 180
+      alignment: 9
+      pivot: {x: 0.18960889, y: 0.4892038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
